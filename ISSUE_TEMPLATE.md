@@ -10,14 +10,14 @@
 **Do you think, a lot of your friends face the same issue?**
 
 
+**What have you tried to solve the issue?**
+
+
+**What do you think is causing the issue?**
+
+
 **Have you thought of any ideas that may solve the issue?**
 
-
-**Which category will you put this issue under?**
-- [ ] Academic 
-- [ ] Lifestyle
-- [ ] Management
-- [ ] Other
 
 
 By submitting this issue, I acknowledge that this follows the [code of conduct](CODE_OF_CONDUCT.md) of Hack4Amrita.
