@@ -20,4 +20,4 @@
 
 
 
-By submitting this issue, I acknowledge that this follows the [code of conduct](CODE_OF_CONDUCT.md) of Hack4Amrita.
+- [ ] By submitting this issue, I acknowledge that this follows the [code of conduct](CODE_OF_CONDUCT.md) of Hack4Amrita.
