@@ -349,7 +349,6 @@ h6 {
   padding-top:12px;
   padding-left:7px;
   text-align: center;
-  width:1000px;
 }
 
 .main-nav .drop-down .drop-down > a:after {
@@ -634,6 +633,8 @@ h6 {
   margin-bottom: 0;
   text-align: left;
 }
+
+
 
 
 /*--------------------------------------------------------------
