@@ -345,7 +345,6 @@ h6 {
 .card{
   margin: 1rem;
   border: 1px solid gray;
-  height:60px!important;
   padding-top:12px;
   padding-left:7px;
   text-align: center;
@@ -829,7 +828,6 @@ h6 {
 #footer .footer-top .form input:-ms-input-placeholder,
 #footer .footer-top .form textarea:-ms-input-placeholder {
   color: #a2a0bd;
-}
   border: 0;
   border-radius: 3px;
   padding: 8px 30px;
@@ -909,18 +907,6 @@ h6 {
     font-size: 28px;
     padding: 8px 0;
   }
-
-  #why-us .why-us-content {
-    padding-top: 30px;
-  }
-
-  #pricing {
-    padding-bottom: 30px;
-  }
-
-  #pricing .card {
-    margin-bottom: 50px;
-  }
 }
 
 @media (max-width: 768px) {
@@ -963,21 +949,6 @@ h6 {
 
   .section-header p {
     width: 100%;
-  }
-
-  #testimonials .testimonial-item {
-    text-align: center;
-  }
-
-  #testimonials .testimonial-item .testimonial-img {
-    float: none;
-    margin: auto;
-  }
-
-  #testimonials .testimonial-item h3,
-  #testimonials .testimonial-item h4,
-  #testimonials .testimonial-item p {
-    margin-left: 0;
   }
 }
 
