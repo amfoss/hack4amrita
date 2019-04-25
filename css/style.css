@@ -345,6 +345,7 @@ h6 {
 .card{
   margin: 1rem;
   border: 1px solid gray;
+  width: 83vw;
   height:60px!important;
   padding-top:12px;
   padding-left:7px;
