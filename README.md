@@ -1,5 +1,5 @@
 # Hack4Amrita
-Hack4Amrita is an initiative by members of FOSS@Amrita club with a goal to solve real-world problems faced by Amritians, by innovating feasiable solutons through Hackathons. 
+Hack4Amrita is an initiative by members of FOSS@Amrita club with a goal to solve real-world problems faced by Amritians, by innovating feasiable solutions through Hackathons. 
 
 ### How it works?
 1. Students/Faculty (or other stakeholders) in the campus raise an issue that they are facing.
